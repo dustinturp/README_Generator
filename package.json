@@ -1,0 +1,23 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "![badmath](https://img.shields.io/badge/License-MIT-red](test))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinturp/README_Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dustinturp/README_Generator/issues"
+  },
+  "homepage": "https://github.com/dustinturp/README_Generator#readme"
+}
