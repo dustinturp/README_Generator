@@ -1,11 +1,11 @@
 
 ![badmath](https://img.shields.io/badge/License-MIT-red](test))   
 
-# test name
+# README Generator
 
 
 ## Description
-test 
+generate a readme file from user provided information. 
   
 ## Table of Contents
 [Description](##Description)
@@ -16,20 +16,17 @@ test
 [Tests](##Tests)
 
 
-## Installation
-test
+### Requirements
+* Node version v14.17.6+
+* inquirer 
+
 
 ## Usage Information 
-test
+terminal
+`node index`
 
 ## License 
-test
-
-## Contribution Guidelines
-test
-
-## Tests
-test
+BSD
 
 Page generated with Node JS on Sat Oct 09 2021 11:47:40 GMT-0500 (Central Daylight Time) 
 
