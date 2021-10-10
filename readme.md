@@ -1,8 +1,7 @@
 
-![badmath](https://img.shields.io/badge/License-MIT-red](test))   
+![badmath](https://img.shields.io/badge/License-MIT-red](https://mit-license.org/))   
 
 # README Generator
-
 
 ## Description
 generate a readme file from user provided information. 

@@ -60,6 +60,7 @@ ${data.description}
 [License](##license)
 [Contribution Guidelines](##<contribution-guidelines>)
 [Tests](##tests)
+[Questions](##questions)
 
 
 ## Installation
@@ -76,6 +77,13 @@ ${data.contributionGuidelines}
 
 ## Tests
 ${data.testInstructions}
+
+## Questions
+GitHib Profile
+[${data.gitHubUsername}](https://github.com/${data.gitHubUsername})
+
+Email:
+[${data.emailContact}](mailto:${data.emailContact}) 
 
 Page generated with Node JS on ${new Date()} 
 

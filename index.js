@@ -27,6 +27,20 @@ return inquirer.prompt([
           }
     },
     {
+        //git hub user name insert into a link. 
+        type: 'input',
+        name: 'emailContact',
+        message: 'Enter a contact email',
+        validate: emailInput => {
+            if (emailInput) {
+              return true;
+            } else {
+              console.log('Please enter an email');
+              return false;
+            }
+          }
+    },
+    {
         // header
         type: 'input',
         name: 'title',
@@ -57,19 +71,19 @@ return inquirer.prompt([
         type: 'input',
         name: 'installationInstructions',
         message: 'Installation Instructions',
-        //  others
+        
     },
     {
         type: 'input',
         name: 'usageInformation',
         message: 'Usage Information',
-        // other
+
     },
     {
         type: 'input',
         name: 'licenseInfo',
         message: 'Enter a description of the license',
-        // other
+        
     },
     {
         type: 'input',

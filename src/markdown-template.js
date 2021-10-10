@@ -24,7 +24,13 @@ ${installationInstructions}
 
 `
 ## Table of Contents
-${tableOfContents}
+[Description](##description)
+[Installation](#installation)
+[Usage Information](##<usage-information>)
+[License](##license)
+[Contribution Guidelines](##<contribution-guidelines>)
+[Tests](##tests)
+[Questions](##questions)
 `
 
 `
@@ -53,7 +59,8 @@ ${testInstructions}
 `
 
 `
-
+## Questions
+https://github.com/dustinturp
 
 `
 
