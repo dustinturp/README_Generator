@@ -5,6 +5,8 @@
 
 ## Description
 generate a readme file from user provided information. 
+
+![node gif](./assets/updated_gen_markdown.gif)
   
 ## Table of Contents
 [Description](##Description)
